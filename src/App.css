@@ -85,7 +85,7 @@ position: relative;
 
 h2 {
   color: #F4CE14;
-  font-size: 40px;
+  font-size: 60px;
 }
 
 h3 {
@@ -115,12 +115,13 @@ button {
   position: absolute;
   right: 13%;
   top: 15%;
-  width: 400px;
+  width: 600px;
+ 
 }
 
 .banner-img img {
   width: 100%;
-  height: 400px;
+  height: 550px;
   border-radius: 20px;
 }
 
@@ -190,7 +191,7 @@ input, label{
 .menu-items{
   /* height: 400px; */
   width: 350px;
-  background: #a9c8be;
+  background: #fbdabb;
   border-radius: 8px;
 }
 
@@ -222,6 +223,7 @@ footer section{
   display: flex;
   justify-content: space-between;
   align-items: start;
+  background-color: #edefee;
 }
 
 .company-info img{
@@ -302,6 +304,7 @@ footer ul li{
   footer section{
     padding: 10px 8%;
     flex-direction: column;
+    
   }
   .company-info p{
     width: 100%;
