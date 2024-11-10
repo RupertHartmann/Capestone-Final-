@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Lemon Booking Website
 
 ## Project Description
@@ -13,3 +14,7 @@ Here are some screeenshots of the application showcasing the Booking functionali
 ![little lemon website table booking](/src/images/github-cover.png)
 
 
+=======
+# Capestone-Project
+Coursera Front-end Project
+>>>>>>> 73f47a50fe115e483f3160d4679603bfc6a031ca
